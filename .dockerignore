@@ -1,0 +1,13 @@
+node_modules
+.next
+.git
+.mail
+uploads
+backups
+.env
+.env.*
+!.env.example
+*.log
+tsconfig.tsbuildinfo
+.vscode
+scripts/*.png
